@@ -1,4 +1,4 @@
-< 20 Coins >
+# 20 Coins
 
 3D Third-person adventure game
 
